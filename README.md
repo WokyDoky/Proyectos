@@ -11,5 +11,9 @@ Networking:
 
 A simple program for a chat application that deals with networking. 
 
+Natural Language: 
+
+Will calculate how closely related words are. 
+
 TODO:
 Improve readability. 
